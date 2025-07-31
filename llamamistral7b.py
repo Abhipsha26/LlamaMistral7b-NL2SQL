@@ -19,7 +19,7 @@ conn = mysql.connector.connect(
     host="0.tcp.in.ngrok.io",
     port=16582,
     user="root",
-    password="diya@321",
+    password="dxxxxxxx",
     database="office"
 )
 
@@ -182,7 +182,7 @@ def chatbot_response(session_id, user_message, schema):
 
 from pyngrok import ngrok
 
-ngrok.set_auth_token("2zXbc9tZzMqXZaMbVwhDONxqJC6_5GpcxAiFbZhw9FYt5yts4")
+ngrok.set_auth_token("2zXbc9tZzMqXZaMbVwhDONxqJC6_5GpcxAiFbZhw9FYt5xxxx")
 
 !pip install fastapi nest-asyncio uvicorn pyngrok sse-starlette
 
@@ -205,7 +205,7 @@ nest_asyncio.apply()
 app = FastAPI()
 
 # Set ngrok token and expose port 8090
-ngrok.set_auth_token("2zXbc9tZzMqXZaMbVwhDONxqJC6_5GpcxAiFbZhw9FYt5yts4")
+ngrok.set_auth_token("2zXbc9tZzMqXZaMbVwhDONxqJC6_5GpcxAiFbZhw9FYtxxxxx")
 public_url = ngrok.connect(8090)
 print("FastAPI Server Public URL:", public_url)
 
