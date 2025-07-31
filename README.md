@@ -81,11 +81,11 @@ This project delivers a fast, schema-aware AI chatbot capable of translating nat
 
 
 12. References
-1.	“Mistral 7B LLM,” https://mistral.ai
-2.	MariaDB Documentation – https://mariadb.com/kb/en/documentation/
-3.	FastAPI – https://fastapi.tiangolo.com
-4.	Ngrok Documentation – https://ngrok.com/docs
-5.	cTransformers GitHub – https://github.com/marella/ctransformers
-6.	OpenAI GPT Models – https://platform.openai.com/docs
+.	“Mistral 7B LLM,” https://mistral.ai
+.	MariaDB Documentation – https://mariadb.com/kb/en/documentation/
+.	FastAPI – https://fastapi.tiangolo.com
+.	Ngrok Documentation – https://ngrok.com/docs
+.	cTransformers GitHub – https://github.com/marella/ctransformers
+.	OpenAI GPT Models – https://platform.openai.com/docs
 
 
