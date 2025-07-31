@@ -89,3 +89,9 @@ This project delivers a fast, schema-aware AI chatbot capable of translating nat
 .	OpenAI GPT Models – https://platform.openai.com/docs
 
 
+<img width="1292" height="684" alt="Screenshot 2025-07-31 114913" src="https://github.com/user-attachments/assets/23e695c7-763d-47ae-a463-34e5cbd3fc7e" />
+<img width="1285" height="423" alt="Screenshot 2025-07-31 114839" src="https://github.com/user-attachments/assets/04b9b1e9-ad72-470e-bd47-40201e2f34d9" />
+<img width="1348" height="860" alt="Screenshot 2025-07-31 114806" src="https://github.com/user-attachments/assets/d8ab9dac-f339-4790-8436-2b0d3ef3b85b" />
+<img width="1587" height="903" alt="Screenshot 2025-07-31 114743" src="https://github.com/user-attachments/assets/8b999810-e542-4ef4-b838-5c437de919af" />
+<img width="1001" height="262" alt="Screenshot 2025-07-31 114749" src="https://github.com/user-attachments/assets/1fcbe9c2-3a4b-4ce6-a359-1c44fdbb0aaf" />
+<img width="1790" height="421" alt="Screenshot 2025-07-25 123243" src="https://github.com/user-attachments/assets/8e48de34-8533-44df-beb9-cb6bd38a6edd" />
